@@ -1,0 +1,9 @@
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        CHANNEL_USERNAME: "@EnglishGrammarEX"
+        POST_TIMES: "09:00,13:00,18:00,21:00,23:30"
+        TIMEZONE: "America/New_York"
+        CPM_LINK: "https://www.effectivecpmnetwork.com/d3zp257u?key=17a91a0db9aa186628c02308b1b20e9a"
+        TOPIC_POOL: "Tenses,Modal Verbs,Conditionals,Prepositions,Subject-Verb Agreement,Articles,Phrasal Verbs,Reported Speech,Passive Voice,Idioms"
+        
